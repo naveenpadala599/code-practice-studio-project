@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+     <meta charset ="UTF-8">
+     <meta content="width=device-width, initial-scale=1.0" name="viewport">
+     <title>Code Practice Studio</title>
+     <style>
+       
+     </style>
+  </head>
+  <body>
+    <header>
+      <div class="brand">
+        <div class="logo">&gt;</div>
+        <div>
+          <h1>Code Practice Studio</h1>
+          <p>Your reference on the left. Your practice on the right</p>
+        </div>
+      </div>
+    </header>     
+  </body>
+</html>
